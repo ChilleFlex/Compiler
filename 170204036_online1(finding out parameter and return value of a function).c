@@ -10,7 +10,7 @@ int main()
 {
 
     FILE *f1;
-    f1 = fopen("input.c","r");
+    f1 = fopen("input_online1.c","r");
     int STRING[10000];
     char s[10000];
 
